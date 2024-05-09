@@ -1,0 +1,20 @@
+{
+  "editor.fontSize": 17,
+  "editor.fontFamily": "MonoLisa",
+  "editor.codeLensFontFamily": "Fira Code, Consolas, Input, DejaVu Sans Mono, MonoLisa",
+  "editor.experimentalInlineEdit.fontFamily": "MonoLisa",
+  "editor.inlineSuggest.fontFamily": "MonoLisa",
+  "debug.console.fontFamily": "MonoLisa",
+  "scm.inputFontFamily": "MonoLisa",
+  "terminal.integrated.fontFamily": "MonoLisa",
+  "notebook.output.fontFamily": "MonoLisa",
+  "chat.editor.fontFamily": "MonoLisa",
+  "gitlens.blame.fontFamily": "Consolas",
+  "editor.minimap.side": "right",
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "peacock.affectSideBarBorder": true,
+  "diffEditor.renderSideBySideInlineBreakpoint": 1200,
+  "files.autoSaveWorkspaceFilesOnly": true,
+  "editor.unicodeHighlight.nonBasicASCII": "inUntrustedWorkspace",
+  "workbench.list.multiSelectModifier": "alt"
+}
